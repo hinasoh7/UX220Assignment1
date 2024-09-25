@@ -1,5 +1,5 @@
 ## Travel
-#![NAME = PIC DESCRIPTION](nskjgsngjds.png) -- drag it into the thing
+![Aco Pbc = Streets of Japan](Aco_Pbc.jpg)
 - I went on a graduation trip with my friends after saving when we initially got our first professional jobs outside of co-op.
 - We went to Japan, South Korea, and Hong Kong.
 - I was also able to fund a trip with my mother around the world to thank her for all the support she has given me.
